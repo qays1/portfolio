@@ -1,10 +1,9 @@
-'use client';  // إضافة هذا السطر في أول الملف لتحديد أن الملف يعمل في الـ Client
+"use client";  // This directive is required for hooks like useEffect and useState
 
 import React, { useEffect, useState } from "react";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import { motion } from "framer-motion";
 import Head from "next/head";
-import './Home.css';
 
 export default function Home() {
   const [role, setRole] = useState("Engineer");
