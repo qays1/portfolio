@@ -50,7 +50,7 @@ export default function Home() {
             animate={{ opacity: 1 }}
             transition={{ duration: 1 }}
           >
-            Hi, I'm <span className="text-gradient">Qays</span>
+            Hi, I&#39;m <span className="text-gradient">Qays</span>
           </motion.h1>
           <motion.p
             className="text-xl font-medium drop-shadow-md mb-4"
