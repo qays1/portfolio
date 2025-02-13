@@ -1,3 +1,5 @@
+'use client';  // إضافة هذا السطر في أول الملف لتحديد أن الملف يعمل في الـ Client
+
 import React, { useEffect, useState } from "react";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import { motion } from "framer-motion";
