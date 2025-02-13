@@ -35,13 +35,13 @@ export default function Home() {
       {/* Hero Section */}
       <div className="absolute inset-0 flex flex-col justify-center items-center text-center text-white px-4 z-10">
         <h1 className="text-5xl font-extrabold mb-6 drop-shadow-xl tracking-wide">
-          Hi, Im <span className="text-gradient">Qays</span>
+          Hi&sbquo; I&apos;m <span className="text-gradient">Qays</span>
         </h1>
         <p className="text-xl font-medium drop-shadow-md mb-4">
           An AI <span className="text-gradient">{role}</span>
         </p>
         <p className="text-gray-200 max-w-2xl drop-shadow-md">
-          Building smarter systems in Computer Vision, Large Language Models, and Chatbots.
+          Building smarter systems in Computer Vision&sbquo; Large Language Models&sbquo; and Chatbots.
         </p>
 
         {/* Download CV Button */}
