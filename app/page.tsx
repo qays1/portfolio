@@ -97,7 +97,7 @@ export default function Home() {
           <h2 className="text-2xl font-bold p-4 border-b border-gray-600">Contact Me</h2>
           <ul className="p-4 space-y-3">
             <li className="hover:text-blue-400 transition">
-              <a href="mailto:qays@domain.com">
+              <a href="mailto:qaysq28@gmail.com">
                 <FaEnvelope size={24} />
               </a>
             </li>
@@ -140,7 +140,7 @@ export default function Home() {
 
         <button
           className="bg-green-500 text-white px-6 py-3 rounded-full shadow-lg hover:bg-green-600 transition-all absolute bottom-4 left-1/2 transform -translate-x-1/2"
-          onClick={() => window.open("/Qays_CV.pdf", "_blank")}
+          onClick={() => window.open("/QaysAbuMahfouzResume (1).pdf", "_blank")}
         >
           Download CV
         </button>
