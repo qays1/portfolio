@@ -39,7 +39,6 @@ export default function Home() {
           muted
           loop
           playsInline
-          loading="lazy"
         />
 
         {/* Hero Section */}
